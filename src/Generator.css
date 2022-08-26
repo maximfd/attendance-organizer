@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:500&display=swap&subset=cyrillic');
+.btnGen {
+    background: #FAD02C;
+    font-family: 'Exo 2', sans-serif;
+    min-width: 260px;
+    border: 0;
+    border-radius: 7px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    padding: 16px 20px;
+    color: rgb(24, 22, 22);
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top: 20px;
+    /* font-family: 'Pangolin';
+    letter-spacing: 1px; */
+    font-size: 16px;
+}
