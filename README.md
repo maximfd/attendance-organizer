@@ -1,3 +1,14 @@
+# Attendance App. Organizer side
+
+Приложение для учета посещаемости учебных занятий/мероприятий. Интерфейс пользователя-организатора<br /> (интерфейс пользователя-участника доступен [по ссылке](https://github.com/maximfd/attendance-participant)).<br />
+<br />
+
+После авторизации пользователь может сгенерировать и обновлять QR-код для участников<br />
+и в режиме реального времени просматривать список отметившихся. <br />
+<br />
+![attendance-host](https://user-images.githubusercontent.com/74612362/187205899-5aeedf62-ae4d-4fbf-83f9-a839567ff9d2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
